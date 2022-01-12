@@ -23,8 +23,9 @@ For example, if the server is an AWS EC2 instance and the installation should re
    tcp | 443          | 0.0.0.0/0   |
 
 3. Install docker and docker-compose on the server.
-[Docker Installation](https://docs.docker.com/engine/install/)
-[Docker Compose Installation](https://docs.docker.com/compose/install/)
+
+[Docker Installation](https://docs.docker.com/engine/install/)    
+[Docker Compose Installation](https://docs.docker.com/compose/install/)    
 
 4. Download our production docker-compose file into the server by running:
   ```bash
